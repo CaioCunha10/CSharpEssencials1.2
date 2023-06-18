@@ -1,0 +1,15 @@
+C:\C#-Essencials\Floating numbers\Aula-02\bin\Debug\net7.0\Aula-02.exe
+C:\C#-Essencials\Floating numbers\Aula-02\bin\Debug\net7.0\Aula-02.deps.json
+C:\C#-Essencials\Floating numbers\Aula-02\bin\Debug\net7.0\Aula-02.runtimeconfig.json
+C:\C#-Essencials\Floating numbers\Aula-02\bin\Debug\net7.0\Aula-02.dll
+C:\C#-Essencials\Floating numbers\Aula-02\bin\Debug\net7.0\Aula-02.pdb
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.csproj.AssemblyReference.cache
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.AssemblyInfoInputs.cache
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.AssemblyInfo.cs
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.csproj.CoreCompileInputs.cache
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.dll
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\refint\Aula-02.dll
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.pdb
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\Aula-02.genruntimeconfig.cache
+C:\C#-Essencials\Floating numbers\Aula-02\obj\Debug\net7.0\ref\Aula-02.dll
